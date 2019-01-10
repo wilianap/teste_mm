@@ -41,6 +41,9 @@ Fazendo um gráfico com a quantidade de dias anterior a busca e a quantidade de 
 ### Hipótese 3 - Datas comemorativas tem maiores quantidades de busca
 Podemos ver pelo gráfico abaixo, que as datas próximas a 28/02/2017 - Carnaval, tem uma concentração maior de buscas, sendo dia 24 a maior concentração, por ser uma sexta feira pré carnaval.
 ![image](https://user-images.githubusercontent.com/46407752/50977439-6e26b500-14d9-11e9-8b00-91fc895f8387.png)
-### Hipótese 4 - Os comportamentos das hipóteses 2 e 3 ao mesmo tempo
+### Hipótese 4 - Os comportamentos das hipóteses 2 e 3 ocorrem ao mesmo tempo
 Pela gráfico abaixo, podemos ver que esses comportamentos ocorrem ao mesmo tempo, fazendo com que o número de buscas seja muito maior poucos dias antes de uma data comemorativa.
-![image](https://user-images.githubusercontent.com/46407752/50978136-f0fc3f80-14da-11e9-98bb-405be2c303a8.png)
+![image](https://user-images.githubusercontent.com/46407752/51002296-fc229000-1519-11e9-95b0-ef2bcb2d053c.png)
+
+### Hipótese 5 - Horário comercial é o horário que tem maior volume de buscas
+
