@@ -52,3 +52,8 @@ Fazendo um gráfico de quantidade de buscas por hora, podemos perceber que o pic
 Na mesma linha da hipótese anterior podemos ver que nas datas próximas ao carnaval as buscas tem o mesmo comportamento como observado no gráfico abaixo.
 ![image](https://user-images.githubusercontent.com/46407752/51004622-8ff85a00-1522-11e9-8e27-59611f97fb1c.png)
 
+## Conclusões
+* As buscas são em sua maioria feitas durante os dias da semana
+* Essas buscas são feitas para passagens com data de ida até 20 dias após a busca, sendo concentradas principalmente em passagens "*de ultima hora*"
+* Datas comemorativas, onde passagens tem uma alta demanda (consequentemente um custo maior) tem uma maior procura de passagens "*de ultima hora*"
+* O pico de buscas ocorre entre 10h e 11h da manhã e vai decaindo até as 18h, tendo uma nova crescente entre 20h e 22h
