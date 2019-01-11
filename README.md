@@ -6,7 +6,7 @@ Análise de picos de buscas
 Entender as variações de quantidade de buscas ao longo do tempo, para identificar possíveis tendencias ou comportamentos padrão, podendo suportar melhor altas quantidades de buscas.
 
 ## 3) Como executar
-Fazer um levantamento de eventos de busca por dia e hora, relacionando com variáveis de data de ida (quantos dias antes da viagem é feita a busca em média) para poder prever picos antes de datas de alto volume de procura.
+Criar hipóteses com um levantamento de eventos de busca por dia e hora, relacionando com variáveis de data de ida (quantos dias antes da viagem é feita a busca em média) para poder prever picos antes de datas de alto volume de procura.
 
 # Análise 2: Análise da região de partida com mais buscas
 ## 1) Qual é a análise:
@@ -16,17 +16,18 @@ Análise da região de partida com mais buscas
 Motivo: Entender quais são as regiões (aeroportos de ida) com maior procura, para otimizar campanhas regionalizadas
 
 ## 3) Como executar
-Cruzamento de dados entre maiores quantidades de buscas (aeroportos) por dias da semana e dia do mês.
+Analisar os aeroportos mais buscados, agrupando as buscas por região geográfica de proximidade.
+Gerar linhas de tendencia de buscas para os principais aeroportos, para entender se as demandas estão concentradas em alguma data de ida específica, ou se algum outro fator influencia nas busca. Separar esses dados por dia da semana e semana do mês para verificar possíveis sazonalidades de buscas.
 
 # Análise 3: Análise de performance das buscas
 ## 1) Qual é a análise:
 Análise de performance das buscas
 
 ## 2) Motivação da análise
-Motivo: Demonstrar a eficiência do serviço e suas vantagens, mostrar a transparência das buscas e mostrar em quantas ocasiões a MM é mais vantajosa
+Motivo: Demonstrar a eficiência do serviço e suas vantagens, mostrar a transparência das buscas e mostrar em quantas ocasiões a MaxMilhas é mais vantajosa
 
 ## 3) Como executar
-Extrair histogramas e médias dos dados de quantidade de voos, quantidades mais baratos e etc
+Extrair histogramas e médias dos dados de quantidade de voos encontrados por busca, quantidades de voos mais baratos na MaxMilhas. Gerar estatíscas de velocidade de busca, mostrando média e percentil do tempo de busca. Cruzar a quantidade de resultados para buscas para idas até 10 dias da data de busca, mostrando o percentual de resultados mais baratos na MaxMilhas. 
 
 # Análise escolhida: 1 - Análise de picos de buscas
 ## Levantamento de hipóteses
