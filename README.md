@@ -46,4 +46,8 @@ Pela gráfico abaixo, podemos ver que esses comportamentos ocorrem ao mesmo temp
 ![image](https://user-images.githubusercontent.com/46407752/51002296-fc229000-1519-11e9-95b0-ef2bcb2d053c.png)
 
 ### Hipótese 5 - Horário comercial é o horário que tem maior volume de buscas
+Fazendo um gráfico de quantidade de buscas por hora, podemos perceber que o pico de buscas se inicia próximo das 11h da manhã e vai decaindo até as 18h, com uma nova crescente entre 20h e 22h
+![image](https://user-images.githubusercontent.com/46407752/51003322-65f06900-151d-11e9-87fc-79df470be3b5.png)
+Na mesma linha da hipótese anterior podemos ver que nas datas próximas ao carnaval as buscas tem o mesmo comportamento como observado no gráfico abaixo.
+![image](https://user-images.githubusercontent.com/46407752/51004622-8ff85a00-1522-11e9-8e27-59611f97fb1c.png)
 
